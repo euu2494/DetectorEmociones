@@ -1,0 +1,126 @@
+[2025-08-05 13:57:39] Texto: "Hoy me siento realmente feliz y optimista. Después de semanas difíciles, finalmente veo una luz al final del túnel. Estoy agradecido por el apoyo de mis amigos y familiares, y tengo muchas ganas de enfrentar los nuevos retos con energía y esperanza" → Emoción: *   **Felicidad:** 50% - La declaración directa "me siento realmente feliz" es un indicador fuerte.
+Resumen: El texto transmite un sentimiento de felicidad, optimismo y gratitud, marcado por un cambio positivo después de un período complicado. La persona se siente con energía y esperanza para afrontar el futuro.
+
+[2025-08-05 16:26:19] Texto: "[Archivo: CONTROL HORARIO AJUSTADO ELECTRICOS.pdf]  
+CONTROL HORARIO EL RETORNO DE JÚPITER 
+ 
+ 
+DEPARTAMENTO: ELÉCTRICOS  
+NOMBRE DEL TRABAJADOR: 
+NIF: 
+SEMANA 1 
+ 
+DIA FECHA HORA 
+ENTRADA 
+HORA 
+FIN 
+COMIDA TOTAL 
+HORAS 
+ORDINARIAS 
+TOTAL 
+HORAS 
+EXTRA 
+TOTAL FIRMA TRABAJADOR 
+LUNES        
+MARTES 6/5/2025 11:30 21:30 01:00 9 1,5 10,5  
+MIERCOLES 7/5/2025 10:00 20:00 01:00 9  9  
+JUEVES 8/5/2025 10:00 20:00 01:00 9 0,5 9,5  
+VIERNES 9/5/2025 09:30 19:30 01:00 9 1 10  
+SABADO        
+DOMINGO        
+ 
+ 
+ 
+ 
+ 
+ 
+DEPARTAMENTO: ELÉCTRICOS 
+NOMBRE DEL TRABAJADOR: 
+NIF: 
+ 
+SEMANA 2 
+ 
+DIA FECHA HORA 
+ENTRADA 
+HORA 
+FIN 
+COMIDA TOTAL 
+HORAS 
+ORDINARIAS 
+TOTAL 
+HORAS 
+EXTRA 
+TOTAL FIRMA TRABAJADOR 
+LUNES 12/5/2025 10:00 20:00 01:00 9 0,5 9,5  
+MARTES 13/5/2025 20:00 06:00 01:00 9  9  
+MIERCOLES 14/5/2025 20:00 06:00 01:00 9  9  
+JUEVES 15/5/2025 20:00 06:00 01:00 9  1 10  
+VIERNES  16/5/2025  21:00 07:00 01:00 9  9  
+SABADO        
+DOMINGO 18/5/2025 15:00 19:00   4 
+FESTIVAS 
+4 
+FESTIVAS 
+ 
+DEPARTAMENTO: ELÉCTRICOS 
+NOMBRE DEL TRABAJADOR: 
+NIF: 
+ 
+SEMANA 3 
+DIA FECHA HORA 
+ENTRADA 
+HORA 
+FIN 
+COMIDA TOTAL 
+HORAS 
+ORDINARIAS 
+TOTAL 
+HORAS 
+EXTRA 
+TOTAL FIRMA TRABAJADOR 
+LUNES 19/5/2025 10:45 20:45 01:00 9  9  
+MARTES 20/5/2025 11:45 21:45 01:00 9  9  
+MIERCOLES 21/5/2025 13:30 01:30 01:00 9 0,5 9,5  
+JUEVES 22/5/2025 16:00 23:00 01:00 9  9  
+VIERNES 23/5/2025 11:30 21:30 01:00 9 0,5 9,5  
+SABADO        
+DOMINGO        
+ 
+" → Emoción: *   **Neutralidad/Apatía:** 60% - La mayor parte del texto es puramente informativa, sin carga emocional evidente.
+Resumen: El texto transmite una sensación de monotonía, posiblemente acompañada de cansancio. Se observa una rutina laboral repetitiva y exigente, con horarios variables que podrían perturbar el descanso. Hay un indicio de tiempo extra ocasional, lo que podría sumar estrés a la situación. En general, se percibe una atmósfera de trabajo duro y posiblemente poco gratificante.
+
+[2025-08-05 16:27:50] Texto: "[Archivo: quijote.jpg] ❌ Tipo de archivo no soportado todavía." → Emoción: No detectada
+Resumen: Como no puedo acceder al texto que me proporcionaste, no puedo generar un resumen de su estado emocional. Necesito el texto para poder analizarlo y ofrecerte la respuesta.
+
+[2025-08-05 17:20:56] Texto: "E .
+=. E
+— DON QUIJOTE DE LA MANCHA [,.¿;
+: ———— Ne 'Íg
+: - -
+: PRIMERA PARTE u
+CAPITULO T — g
+Que trata de la condición y ejercicio — d
+S del famoso hidalgo don Quijote de la Mancha. - $
+— En un lugar de la Mancha, de cuyo nombre no ¡í 6
+
+q quiero acordarme, no ha mucho tiempo que vivía —
+un hidalgo de los de lanza en astillero, adarga — —
+
+E antigua, rocín flaco y galgo corredor. Una olla de —
+Ñ algo más vaca que carnero, salpicón las más no- —
+— ches, duelos y quebrantos los sábados, lantejas e
+— os viernes, algún palomino de añadidura los do- —
+mingos, consumían las tres partes de su hacienda. — 3g
+El resto della concluían sayo de velarte, calzas D
+— de velludo para las fiestas con sus pantuflos de — —
+— lomnismo, y los días de entre semana se honraba —
+- con su vellorí de lo más fino. Tenía en su casa - —
+— una ama que pasaba de los cuarenta, y una so- —
+- brina que no llegaba á los veinte, y un mozo de = Q_€
+e DON QUIJONE,—3 TOMO 1 vOL: 315 k
+¿ u
+S : T
+E TNA-
+" → Emoción: *   **Nostalgia/Recuerdo (30%):** La frase "En un lugar de la Mancha, de cuyo nombre no quiero acordarme" sugiere una conexión emocional con el pasado, posiblemente mezclada con un deseo de no revivir ciertos aspectos.
+Resumen: El texto transmite un tono melancólico y algo irónico al describir la vida sencilla y quizás un poco decadente de un hidalgo. Se percibe cierta nostalgia por un pasado mejor a través de la descripción de sus posesiones modestas y hábitos alimenticios.
+
